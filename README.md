@@ -35,14 +35,14 @@
 | 알림 기능 |  |  |  |
 
 
-#### 유저 / 관리자
+### 유저 / 관리자
 
 | | |
 | --- | --- |
 | <img src="https://github.com/user-attachments/assets/059bf077-b305-4f8c-879d-aec961aa319f" width="700" /> | <img src="https://github.com/user-attachments/assets/c6cb0984-d071-4c45-a125-2c6cbad2b52c" width="700" /> |
 | <img src="https://github.com/user-attachments/assets/cfaa5d39-a204-4816-b9e3-117e6e0f69c3" width="700" /> | <img src="https://github.com/user-attachments/assets/763f6879-b01a-4502-9b91-769799cb5bb4" width="700" /> |
 
-#### 면접 노트 / 면접 연습
+### 면접 노트 / 면접 연습
 
 | | |
 | --- | --- |
@@ -50,7 +50,7 @@
 | <img src="https://github.com/user-attachments/assets/7fdadb05-7e67-4747-8acd-8d1e6bfd862f" width="700" /> | <img src="https://github.com/user-attachments/assets/ecb6114e-e15e-4338-b5bc-7616ae0349be" width="700" /> |
 | <img src="https://github.com/user-attachments/assets/b07ed3ed-7b17-4e1e-b409-b0750c6504fd" width="700" /> | <img src="https://github.com/user-attachments/assets/82b27934-4458-4a92-bbd9-54ea8ba92eda" width="700" /> |
 
-#### 결제 / 알림
+### 결제 / 알림
 
 | | |
 | --- | --- |
